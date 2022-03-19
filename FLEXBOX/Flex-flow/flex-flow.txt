@@ -1,0 +1,1 @@
+La propiedad flex-flox es una combinacion de las propiedades flex-direction y flex-wrap

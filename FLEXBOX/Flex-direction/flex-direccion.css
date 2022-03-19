@@ -1,0 +1,13 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+.flex-container div{
+    background-color: gainsboro;
+    width: 80px;/*ancho*/
+    margin :10px;
+    text-align: center;
+    line-height: 75px;
+    font-size:30px;
+    border:2px solid black;/*border*/
+}
